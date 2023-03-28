@@ -5,7 +5,7 @@
 // @description  Toggle den dumme sidebar på Jira
 // @author       You
 // @match        https://jira.erst.dk/browse/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=erst.dk
+// @icon         https://www.google.com/s2/favicons?sz=64&domain=jira.com
 // @grant        none
 // ==/UserScript==
 ​
